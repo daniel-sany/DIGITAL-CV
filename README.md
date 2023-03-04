@@ -151,7 +151,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## 💬 Languages
 
 🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+fr **French **: c2
 <br><br>
 
 ## 👩🏼‍🎓 Education
